@@ -6,5 +6,5 @@ I am a computer science student.
 - 🔭 I’m currently working on Natural Language Preprocessing.
 - 🌱 I’m currently learning Javascript, NodeJS, ReactJS, React Native.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=HenzoVz)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
