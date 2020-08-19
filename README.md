@@ -1,6 +1,5 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
-### Hi 👋
+### Hi 👋 I Am Henzo
+<hr/>
 
 I am a computer science student.
 - 🔭 I’m currently working on Natural Language Preprocessing.
