@@ -15,6 +15,8 @@
 [<img align="left" alt="haryel gillet ramalho | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
 
 <br />
+
+
 ## Languages and Tools:
 
 
