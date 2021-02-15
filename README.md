@@ -5,8 +5,6 @@
 
 <br />
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenzoVz&layout=compact&theme=algolia" alt="HenzoVz's github stats" />
-
 ## Languages and Tools:
 <br />
 
