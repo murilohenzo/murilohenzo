@@ -1,9 +1,6 @@
 <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ### Hi there `I'm Murilo Henzo,` welcome to my profile 👋
-
-- :rocket: I’m currently learning Node JS,Typescript, React JS and React Native at [Rocketseat](https://rocketseat.com.br).
-    - Check my [profile](https://app.rocketseat.com.br/me/murilo-henzo-404) in Rocketseat App to more infos about i'm doing in Rocektseat course. 
 - :mortar_board: I 'm a computer science student.
 
 <br />
