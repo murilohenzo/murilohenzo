@@ -42,11 +42,11 @@
  <br/><br/>
 
 <div align="center" >
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=HenzoVz&show_icons=true&theme=algolia&count_private=true" alt="HenzoVz's github stats" />
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=murilohenzo&show_icons=true&theme=algolia&count_private=true" alt="murilohenzo's github stats" />
     <ul align="left">
     <li align="left">Thanks for visiting :smiley:</li>
   </ul>
 </div>
  
 [linkedin]: https://www.linkedin.com/in/murilo-henzo-21971a168
-[github]: https://github.com/HenzoVz
+[github]: https://github.com/murilohenzo
