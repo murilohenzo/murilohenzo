@@ -1,52 +1,41 @@
-<img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+# Hey, I'm Murilo Henzo 👋🏽
 
-### Hi there `I'm Murilo Henzo,` welcome to my profile 👋
-- :mortar_board: I 'm a computer science student.
+ ##🏽 Who am I? 
 
-<br />
+🎓 I 'm a computer science student..
+ </br>
+🤓 I'm currently Full-Stack Developer at Conta Zap.
+</br>
 
-## Languages and Tools:
-<br />
+## 🖥️ Technologies
+
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div>
+
+ 
+ ## 👍 Follow me
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/murilo-henzo-21971a168" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
+##
 <div>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
-    <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  </a>
-  <a href="https://pt-br.reactjs.org">
-    <img align="left" alt="React JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
-  </a>
-  <a href="https://reactnative.dev">
-    <img align="left" alt="React Native" width="26px" src="https://library.kissclipart.com/20181008/qw/kissclipart-react-logo-transparent-background-clipart-react-co-f9507a1adbc3c5f3.jpg" />
-  </a>
-  <a href="https://nodejs.org/en/">
-    <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  </a>
-  <a href="https://code.visualstudio.com">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  </a>
-  <a href="https://git-scm.com">
-    <img align="left" alt="GitHub" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-  </a>
-  <a src="https://ohmyz.sh">
-     <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  </a>
-<div/>
-  
- <br/><br/>
-
-<div align="center" >
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=murilohenzo&show_icons=true&theme=algolia&count_private=true" alt="murilohenzo's github stats" />
-    <ul align="left">
-    <li align="left">Thanks for visiting :smiley:</li>
-  </ul>
+  <a href="https://github.com/murilohenzo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilohenzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilohenzo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
-[linkedin]: https://www.linkedin.com/in/murilo-henzo-21971a168
-[github]: https://github.com/murilohenzo
+ ![Snake animation](https://github.com/murilohenzo/murilohenzo/blob/output/github-contribution-grid-snake.svg)
