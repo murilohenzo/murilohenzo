@@ -1,8 +1,8 @@
 # Hey, I'm Murilo Henzo 👋🏽
 
- ##🏽 Who am I? 
+ ##🏽� Who am I? 
 
-🎓 I 'm a computer science student..
+🎓 I 'm a computer science student.
  </br>
 🤓 I'm currently Full-Stack Developer at Conta Zap.
 </br>
