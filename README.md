@@ -4,7 +4,7 @@
 
 🎓 I 'm a computer science student.
  </br>
-🤓 I'm currently Full-Stack Developer at Conta Zap.
+🤓 I'm currently Full-Stack Developer.
 </br>
 
 ## 🚀 Skills
