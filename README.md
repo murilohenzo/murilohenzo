@@ -1,10 +1,8 @@
 # Hey, I'm Murilo Henzo 👋🏽
 
- ##🏽� Who am I? 
-
 🎓 I 'm a computer science student.
  </br>
-🤓 I'm currently Full-Stack Developer.
+🤓 I'm currently Developer.
 </br>
 
 ## 🚀 Skills
