@@ -1,7 +1,6 @@
 # Hey, I'm Murilo Henzo 👋🏽
 
-🎓 I 'm a computer science student.
- </br>
+</br>
 🤓 I'm currently Developer.
 </br>
 
